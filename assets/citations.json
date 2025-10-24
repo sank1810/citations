@@ -1,0 +1,502 @@
+[
+  {
+    "citation": "La vie est un mystère qu'il faut vivre, et non un problème à résoudre.",
+    "author": "Gandhi",
+    "source": "Correspondance"
+  },
+  {
+    "citation": "Choisissez un travail que vous aimez et vous n'aurez pas à travailler un seul jour de votre vie.",
+    "author": "Confucius",
+    "source": "Les Entretiens"
+  },
+  {
+    "citation": "Le plus grand risque est de ne prendre aucun risque.",
+    "author": "Mark Zuckerberg",
+    "source": "Discours"
+  },
+  {
+    "citation": "L'avenir appartient à ceux qui croient à la beauté de leurs rêves.",
+    "author": "Eleanor Roosevelt",
+    "source": "You Learn by Living"
+  },
+  {
+    "citation": "La seule façon de faire du bon travail est d'aimer ce que vous faites.",
+    "author": "Steve Jobs",
+    "source": "Discours à Stanford"
+  },
+  {
+    "citation": "Il n'y a qu'une seule chose qui puisse rendre un rêve impossible, c'est la peur d'échouer.",
+    "author": "Paulo Coelho",
+    "source": "L'Alchimiste"
+  },
+  {
+    "citation": "La simplicité est la sophistication suprême.",
+    "author": "Léonard de Vinci",
+    "source": "Carnets"
+  },
+  {
+    "citation": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
+    "author": "Antoine de Saint-Exupéry",
+    "source": "Le Petit Prince"
+  },
+  {
+    "citation": "Le courage n'est pas l'absence de peur, mais la capacité de vaincre ce qui fait peur.",
+    "author": "Nelson Mandela",
+    "source": "Un long chemin vers la liberté"
+  },
+  {
+    "citation": "La meilleure façon de prédire l'avenir est de le créer.",
+    "author": "Peter Drucker",
+    "source": "Managing for the Future"
+  },
+  {
+    "citation": "Le bonheur n'est pas quelque chose qu'on remet à plus tard. C'est quelque chose qu'on designe pour le présent.",
+    "author": "Jim Rohn",
+    "source": "7 Strategies for Wealth & Happiness"
+  },
+  {
+    "citation": "La vie, c'est comme une bicyclette, il faut avancer pour ne pas perdre l'équilibre.",
+    "author": "Albert Einstein",
+    "source": "Lettres"
+  },
+  {
+    "citation": "Le succès c'est tomber sept fois, se relever huit.",
+    "author": "Proverbe japonais",
+    "source": "Sagesse populaire"
+  },
+  {
+    "citation": "Soyez le changement que vous voulez voir dans le monde.",
+    "author": "Gandhi",
+    "source": "Tous les hommes sont frères"
+  },
+  {
+    "citation": "La qualité n'est pas un acte, c'est une habitude.",
+    "author": "Aristote",
+    "source": "Éthique à Nicomaque"
+  },
+  {
+    "citation": "Il n'y a pas de vent favorable pour celui qui ne sait où il va.",
+    "author": "Sénèque",
+    "source": "Lettres à Lucilius"
+  },
+  {
+    "citation": "La plus grande gloire n'est pas de ne jamais tomber, mais de se relever à chaque chute.",
+    "author": "Confucius",
+    "source": "Les Entretiens"
+  },
+  {
+    "citation": "Votre temps est limité, ne le gâchez pas en vivant la vie de quelqu'un d'autre.",
+    "author": "Steve Jobs",
+    "source": "Discours à Stanford"
+  },
+  {
+    "citation": "L'imagination est plus importante que le savoir.",
+    "author": "Albert Einstein",
+    "source": "Comment je vois le monde"
+  },
+  {
+    "citation": "La seule limite à notre épanouissement de demain sera nos doutes d'aujourd'hui.",
+    "author": "Franklin D. Roosevelt",
+    "source": "Discours"
+  },
+  {
+    "citation": "Le but de la vie est le développement personnel. Parvenir à une parfaite réalisation de sa nature, c'est pour cela que nous sommes tous ici.",
+    "author": "Oscar Wilde",
+    "source": "L'Âme humaine"
+  },
+  {
+    "citation": "Ce qui ne me tue pas me rend plus fort.",
+    "author": "Friedrich Nietzsche",
+    "source": "Crépuscule des idoles"
+  },
+  {
+    "citation": "La vie est ce qui arrive quand on est occupé à d'autres projets.",
+    "author": "John Lennon",
+    "source": "Beautiful Boy"
+  },
+  {
+    "citation": "Le savoir parle, mais la sagesse écoute.",
+    "author": "Jimi Hendrix",
+    "source": "Citations"
+  },
+  {
+    "citation": "La persévérance est le secret de tous les triomphes.",
+    "author": "Victor Hugo",
+    "source": "Les Misérables"
+  },
+  {
+    "citation": "Le plus grand bonheur après celui d'aimer, c'est de confesser son amour.",
+    "author": "Jean de La Bruyère",
+    "source": "Les Caractères"
+  },
+  {
+    "citation": "La beauté est dans les yeux de celui qui regarde.",
+    "author": "Oscar Wilde",
+    "source": "Le Portrait de Dorian Gray"
+  },
+  {
+    "citation": "Vis comme si tu devais mourir demain. Apprends comme si tu devais vivre toujours.",
+    "author": "Gandhi",
+    "source": "Tous les hommes sont frères"
+  },
+  {
+    "citation": "La liberté n'est pas l'absence d'engagement, mais la capacité de choisir.",
+    "author": "Paulo Coelho",
+    "source": "Le Zahir"
+  },
+  {
+    "citation": "Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès.",
+    "author": "Albert Schweitzer",
+    "source": "Ma vie et ma pensée"
+  },
+  {
+    "citation": "La meilleure revanche, c'est le succès.",
+    "author": "Frank Sinatra",
+    "source": "Interviews"
+  },
+  {
+    "citation": "La créativité, c'est l'intelligence qui s'amuse.",
+    "author": "Albert Einstein",
+    "source": "Citations"
+  },
+  {
+    "citation": "Rien n'est permanent, sauf le changement.",
+    "author": "Héraclite",
+    "source": "Fragments"
+  },
+  {
+    "citation": "La patience est amère, mais son fruit est doux.",
+    "author": "Jean-Jacques Rousseau",
+    "source": "Émile ou De l'éducation"
+  },
+  {
+    "citation": "L'éducation est l'arme la plus puissante qu'on puisse utiliser pour changer le monde.",
+    "author": "Nelson Mandela",
+    "source": "Discours"
+  },
+  {
+    "citation": "La seule chose nécessaire au triomphe du mal est que les hommes bons ne fassent rien.",
+    "author": "Edmund Burke",
+    "source": "Réflexions sur la Révolution de France"
+  },
+  {
+    "citation": "Le doute est le commencement de la sagesse.",
+    "author": "Aristote",
+    "source": "Éthique à Nicomaque"
+  },
+  {
+    "citation": "La vie est un défi à relever, un bonheur à mériter, une aventure à tenter.",
+    "author": "Mère Teresa",
+    "source": "Une pensée par jour avec Mère Teresa"
+  },
+  {
+    "citation": "Le plus grand échec est de ne pas avoir essayé.",
+    "author": "George Clooney",
+    "source": "Interviews"
+  },
+  {
+    "citation": "La sagesse, c'est d'avoir des rêves suffisamment grands pour ne pas les perdre de vue lorsqu'on les poursuit.",
+    "author": "Oscar Wilde",
+    "source": "L'Importance d'être Constant"
+  },
+  {
+    "citation": "Le bonheur n'est pas une destination, c'est un mode de voyage.",
+    "author": "Bouddha",
+    "source": "Enseignements"
+  },
+  {
+    "citation": "La véritable découverte ne consiste pas à chercher de nouveaux paysages, mais à avoir de nouveaux yeux.",
+    "author": "Marcel Proust",
+    "source": "À la recherche du temps perdu"
+  },
+  {
+    "citation": "Le succès, c'est d'aller d'échec en échec sans perdre son enthousiasme.",
+    "author": "Winston Churchill",
+    "source": "Discours"
+  },
+  {
+    "citation": "La vie est trop courte pour être petite.",
+    "author": "Benjamin Disraeli",
+    "source": "Henrietta Temple"
+  },
+  {
+    "citation": "Le plus grand bonheur que vous puissiez donner, c'est le bonheur que vous partagez.",
+    "author": "Albert Schweitzer",
+    "source": "Ma vie et ma pensée"
+  },
+  {
+    "citation": "La confiance en soi est le premier secret du succès.",
+    "author": "Ralph Waldo Emerson",
+    "source": "Essais"
+  },
+  {
+    "citation": "Le monde appartient à ceux qui se lèvent tôt.",
+    "author": "Benjamin Franklin",
+    "source": "Les Almanachs du Bonhomme Richard"
+  },
+  {
+    "citation": "La gratitude transforme ce que nous avons en assez.",
+    "author": "Melody Beattie",
+    "source": "Langages de l'amour"
+  },
+  {
+    "citation": "Le but n'est pas toujours meant to be reached, but to serve as a target for our aim.",
+    "author": "Joseph Conrad",
+    "source": "Lord Jim"
+  },
+  {
+    "citation": "La simplicité est la clé de toute véritable élégance.",
+    "author": "Coco Chanel",
+    "source": "L'Allure de Chanel"
+  },
+  {
+    "citation": "Le plus grand voyageur n'est pas celui qui a fait dix fois le tour du monde, mais celui qui a fait une seule fois le tour de lui-même.",
+    "author": "Gandhi",
+    "source": "Tous les hommes sont frères"
+  },
+  {
+    "citation": "La vie est faite de petites joies qui mises bout à bout en font une grande.",
+    "author": "Jules Renard",
+    "source": "Journal"
+  },
+  {
+    "citation": "Le succès n'est pas final, l'échec n'est pas fatal : c'est le courage de continuer qui compte.",
+    "author": "Winston Churchill",
+    "source": "Discours"
+  },
+  {
+    "citation": "La meilleure façon de trouver une idée est d'en avoir beaucoup.",
+    "author": "Linus Pauling",
+    "source": "No More War!"
+  },
+  {
+    "citation": "Le bonheur n'est pas chose aisée. Il est très difficile de le trouver en nous, il est impossible de le trouver ailleurs.",
+    "author": "Bouddha",
+    "source": "Enseignements"
+  },
+  {
+    "citation": "La patience est la compagne de la sagesse.",
+    "author": "Saint Augustin",
+    "source": "Les Confessions"
+  },
+  {
+    "citation": "Le plus grand danger pour la plupart d'entre nous n'est pas que notre but soit trop élevé et que nous le manquions, mais qu'il soit trop bas et que nous l'atteignions.",
+    "author": "Michel-Ange",
+    "source": "Pensées"
+  },
+  {
+    "citation": "La vie est un roman qu'on écrit soi-même.",
+    "author": "Jules Renard",
+    "source": "Journal"
+  },
+  {
+    "citation": "Le secret du bonheur est la liberté, le secret de la liberté est le courage.",
+    "author": "Thucydide",
+    "source": "Histoire de la guerre du Péloponnèse"
+  },
+  {
+    "citation": "La plus grande gloire est de tomber et de se relever à chaque fois.",
+    "author": "Oliver Goldsmith",
+    "source": "The Vicar of Wakefield"
+  },
+  {
+    "citation": "Le bonheur n'est pas dans la recherche du plaisir, mais dans l'engagement d'une vie chargée de sens.",
+    "author": "Victor Frankl",
+    "source": "Découvrir un sens à sa vie"
+  },
+  {
+    "citation": "La sagesse commence dans l'émerveillement.",
+    "author": "Socrate",
+    "source": "Dialogues"
+  },
+  {
+    "citation": "Le succès, c'est obtenir ce que vous voulez. Le bonheur, c'est apprécier ce que vous obtenez.",
+    "author": "Dale Carnegie",
+    "source": "Comment se faire des amis"
+  },
+  {
+    "citation": "La vie est belle, mais il faut savoir la regarder.",
+    "author": "Charlie Chaplin",
+    "source": "The Great Dictator"
+  },
+  {
+    "citation": "Le plus grand pouvoir de l'homme est sa capacité de choisir.",
+    "author": "Jean-Paul Sartre",
+    "source": "L'Existentialisme est un humanisme"
+  },
+  {
+    "citation": "La persévérance est la mère de toutes les vertus.",
+    "author": "Cicéron",
+    "source": "De l'orateur"
+  },
+  {
+    "citation": "Le bonheur n'est pas un but, c'est une conséquence.",
+    "author": "Robert Ingersoll",
+    "source": "The Liberty of Man, Woman and Child"
+  },
+  {
+    "citation": "La seule véritable erreur est celle dont on ne tire aucun enseignement.",
+    "author": "John Powell",
+    "source": "Le secret pour rester amoureux"
+  },
+  {
+    "citation": "Le courage est la première des qualités humaines, car elle garantit toutes les autres.",
+    "author": "Aristote",
+    "source": "Éthique à Nicomaque"
+  },
+  {
+    "citation": "La vie est ce que nous en faisons. Toujours a été, toujours sera.",
+    "author": "Grandma Moses",
+    "source": "Ma vie"
+  },
+  {
+    "citation": "Le succès ne consiste pas à ne jamais faire d'erreurs, mais à ne jamais faire la même deux fois.",
+    "author": "George Bernard Shaw",
+    "source": "Back to Methuselah"
+  },
+  {
+    "citation": "La meilleure préparation pour demain est de faire de son mieux aujourd'hui.",
+    "author": "H. Jackson Brown Jr.",
+    "source": "A Father's Book of Wisdom"
+  },
+  {
+    "citation": "Le bonheur n'est pas un état à atteindre, mais une manière de voyager.",
+    "author": "Margaret Lee Runbeck",
+    "source": "Answer Without Ceasing"
+  },
+  {
+    "citation": "La simplicité est la sophistication suprême.",
+    "author": "Léonard de Vinci",
+    "source": "Carnets"
+  },
+  {
+    "citation": "Le plus grand bonheur dans la vie est d'être aimé pour ce que l'on est.",
+    "author": "Victor Hugo",
+    "source": "Les Misérables"
+  },
+  {
+    "citation": "La vie est trop importante pour être prise au sérieux.",
+    "author": "Oscar Wilde",
+    "source": "L'Importance d'être Constant"
+  },
+  {
+    "citation": "Le succès n'a pas de règles, mais il a une méthode.",
+    "author": "Robert Kiyosaki",
+    "source": "Père riche, père pauvre"
+  },
+  {
+    "citation": "La patience est la clé de la contentement.",
+    "author": "Bouddha",
+    "source": "Enseignements"
+  },
+  {
+    "citation": "Le plus beau voyage est celui qu'on n'a pas encore fait.",
+    "author": "Loick Peyron",
+    "source": "Hors série"
+  },
+  {
+    "citation": "La gratitude est la mémoire du cœur.",
+    "author": "Jean-Baptiste Massieu",
+    "source": "Lettres"
+  },
+  {
+    "citation": "Le bonheur n'est pas d'avoir tout ce que l'on désire, mais d'apprécier ce que l'on a.",
+    "author": "Paulo Coelho",
+    "source": "Le Pèlerin de Compostelle"
+  },
+  {
+    "citation": "La vie est un songe, mais ne vous réveillez pas.",
+    "author": "André Breton",
+    "source": "Manifeste du surréalisme"
+  },
+  {
+    "citation": "Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès.",
+    "author": "Hermann Hesse",
+    "source": "Siddhartha"
+  },
+  {
+    "citation": "La plus grande sagesse est de connaître ses limites.",
+    "author": "Aristote",
+    "source": "Éthique à Nicomaque"
+  },
+  {
+    "citation": "Le courage n'est pas de ne pas avoir peur, mais de vaincre sa peur.",
+    "author": "Nelson Mandela",
+    "source": "Un long chemin vers la liberté"
+  },
+  {
+    "citation": "La vie est une aventure audacieuse ou ce n'est rien.",
+    "author": "Helen Keller",
+    "source": "Let Us Have Faith"
+  },
+  {
+    "citation": "Le bonheur n'est pas une station où l'on arrive, mais une manière de voyager.",
+    "author": "Margaret Lee Runbeck",
+    "source": "Answer Without Ceasing"
+  },
+  {
+    "citation": "La simplicité est l'ultime sophistication.",
+    "author": "Clare Boothe Luce",
+    "source": "Slam the Door Softly"
+  },
+  {
+    "citation": "Le plus grand bonheur est de transformer ses passions en métier.",
+    "author": "Confucius",
+    "source": "Les Entretiens"
+  },
+  {
+    "citation": "La vie est courte, l'art est long.",
+    "author": "Hippocrate",
+    "source": "Aphorismes"
+  },
+  {
+    "citation": "Le succès n'est pas un hasard, c'est un choix.",
+    "author": "Phil Knight",
+    "source": "Shoe Dog"
+  },
+  {
+    "citation": "La patience est un arbre dont la racine est amère, et dont les fruits sont très doux.",
+    "author": "Proverbe persan",
+    "source": "Sagesse populaire"
+  },
+  {
+    "citation": "Le bonheur n'est pas de posséder beaucoup, mais de se contenter de peu.",
+    "author": "Démocrite",
+    "source": "Fragments"
+  },
+  {
+    "citation": "La vie est un défi, il faut le relever ; la vie est un bonheur, il faut le mériter.",
+    "author": "Mère Teresa",
+    "source": "Une pensée par jour avec Mère Teresa"
+  },
+  {
+    "citation": "Le plus grand pouvoir est de se connaître soi-même.",
+    "author": "Galilée",
+    "source": "Dialogues"
+  },
+  {
+    "citation": "La gratitude est la plus belle des vertus, et la mère de toutes les autres.",
+    "author": "Cicéron",
+    "source": "Pro Archia"
+  },
+  {
+    "citation": "Le bonheur n'est pas dans les choses, il est en nous.",
+    "author": "Emmanuel Kant",
+    "source": "Fondation de la métaphysique des mœurs"
+  },
+  {
+    "citation": "La vie est un livre, et ceux qui ne voyagent pas n'en lisent qu'une page.",
+    "author": "Saint Augustin",
+    "source": "Les Confessions"
+  },
+  {
+    "citation": "Le succès n'est pas de ne jamais tomber, mais de rebondir à chaque chute.",
+    "author": "Confucius",
+    "source": "Les Entretiens"
+  },
+  {
+    "citation": "La plus grande aventure est d'aller vers soi.",
+    "author": "Rainer Maria Rilke",
+    "source": "Lettres à un jeune poète"
+  }
+]
