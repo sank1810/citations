@@ -10,7 +10,7 @@ class CitationDatabase {
 
   static final CitationDatabase instance = CitationDatabase._();
 
-  static Database? _database;
+  Database? _database;
 
   Future<Database> get database async {
     if (_database != null) {
